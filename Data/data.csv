@@ -1,0 +1,522 @@
+Transaction_ID,Case_ID,Risk_Score,Primary_Typology,Customer_Occupation,Transaction_Date,Amount_INR,Transaction_Type,Counterparty,Anomaly_Flag
+TXN-560285,CASE-0064,97,Structuring,Real Estate Agent,2024-04-02,909123.36,Cash,Zenith Trade Partners,YES
+TXN-780776,CASE-0028,65,Shell Company,Unemployed,2024-10-25,313790.67,ACH,Crest Imports,NO
+TXN-639593,CASE-0018,45,Shell Company,Real Estate Agent,2023-11-19,654317.93,Wire,Zenith Trade Partners,NO
+TXN-903013,CASE-0009,75,Structuring,Money Service Operator,2024-05-01,4554218.97,Cash,Apex Ventures,YES
+TXN-764926,CASE-0072,68,Structuring,Money Service Operator,2024-09-11,4976507.71,ATM,Unknown Entity Ltd,YES
+TXN-682851,CASE-0065,82,Shell Company,Retail Shop Owner,2023-03-04,1202092.61,Wire,Falcon Remittance,NO
+TXN-354377,CASE-0067,76,Cash Intensive,Retail Shop Owner,2023-05-01,375970.82,Cash,Atlas Fund Management,NO
+TXN-814281,CASE-0058,80,Structuring,Real Estate Agent,2023-04-13,4596524.71,ATM,Global Remit LLC,YES
+TXN-678043,CASE-0020,80,Trade-Based,Self-Employed,2024-05-09,4911100.85,Wire,Horizon Shell Co,NO
+TXN-549660,CASE-0015,45,Trade-Based,Unemployed,2024-04-06,4588269.7,ACH,Orbit Capital,NO
+TXN-944565,CASE-0081,90,Rapid Movement,Freelance Consultant,2023-01-26,174486.21,Wire,Rapid Transfer Corp,YES
+TXN-655736,CASE-0066,99,Rapid Movement,Import/Export Trader,2023-01-31,736055.88,ACH,Trident Finance,YES
+TXN-822858,CASE-0015,45,Trade-Based,Unemployed,2023-03-18,1204396.77,ACH,Horizon Shell Co,NO
+TXN-740255,CASE-0042,50,Trade-Based,Retail Shop Owner,2024-02-25,2139347.36,Wire,Horizon Shell Co,NO
+TXN-406327,CASE-0014,94,Structuring,Cash Business Owner,2024-06-30,912643.05,Cash,Trident Finance,YES
+TXN-837880,CASE-0085,77,Rapid Movement,Unemployed,2023-01-14,519203.21,Wire,Sunrise Exports Pvt Ltd,YES
+TXN-381581,CASE-0083,56,Trade-Based,Retail Shop Owner,2023-08-12,4856578.61,Wire,Atlas Fund Management,NO
+TXN-213349,CASE-0011,86,Rapid Movement,Cash Business Owner,2023-01-25,772801.06,Wire,Crest Imports,YES
+TXN-867934,CASE-0026,54,Cash Intensive,Self-Employed,2024-03-27,26348.62,Cash,Metro Cash Services,NO
+TXN-242291,CASE-0010,57,Shell Company,Import/Export Trader,2024-07-31,1393399.56,Wire,Falcon Remittance,NO
+TXN-906814,CASE-0042,50,Trade-Based,Retail Shop Owner,2024-11-25,4762085.77,ACH,Horizon Shell Co,NO
+TXN-940952,CASE-0062,68,Structuring,Real Estate Agent,2024-09-12,4647428.14,ATM,Trident Finance,YES
+TXN-920685,CASE-0074,77,Rapid Movement,Retail Shop Owner,2023-01-14,175405.55,ACH,Atlas Fund Management,YES
+TXN-309902,CASE-0049,72,Structuring,Self-Employed,2023-09-24,4527669.4,ATM,Atlas Fund Management,YES
+TXN-503159,CASE-0039,56,Cash Intensive,Freelance Consultant,2023-04-03,311354.11,Cash,Silver Creek Holdings,NO
+TXN-622987,CASE-0053,95,Rapid Movement,Import/Export Trader,2023-01-16,192375.58,Wire,Horizon Shell Co,YES
+TXN-507517,CASE-0079,80,Structuring,Import/Export Trader,2023-09-26,4713990.44,ATM,Meridian Trade,YES
+TXN-237118,CASE-0053,95,Rapid Movement,Import/Export Trader,2023-01-24,696113.81,ACH,Zenith Trade Partners,YES
+TXN-499152,CASE-0067,76,Cash Intensive,Retail Shop Owner,2023-09-03,280518.85,Cash,Crest Imports,NO
+TXN-663723,CASE-0080,71,Trade-Based,Retail Shop Owner,2023-08-14,1814404.59,ACH,Nexus Holdings,NO
+TXN-191537,CASE-0073,46,Shell Company,Real Estate Agent,2024-01-04,1570423.68,Wire,Phoenix Consultancy,NO
+TXN-986589,CASE-0079,80,Structuring,Import/Export Trader,2024-09-17,4749267.81,ATM,Metro Cash Services,YES
+TXN-393243,CASE-0012,89,Structuring,Cash Business Owner,2024-05-14,922224.17,ATM,Delta Clearing House,YES
+TXN-456331,CASE-0033,67,Cash Intensive,Money Service Operator,2023-07-04,143902.49,Cash,Crest Imports,NO
+TXN-145814,CASE-0042,50,Trade-Based,Retail Shop Owner,2024-12-10,3969940.16,Wire,Horizon Shell Co,NO
+TXN-462831,CASE-0051,70,Rapid Movement,Cash Business Owner,2023-01-30,173492.81,ACH,Nexus Holdings,YES
+TXN-209627,CASE-0077,93,Structuring,Cash Business Owner,2024-04-19,921051.12,Cash,Atlas Fund Management,YES
+TXN-879779,CASE-0009,75,Structuring,Money Service Operator,2024-05-31,4894188.66,ATM,Blue Ocean Finance,YES
+TXN-223088,CASE-0081,90,Rapid Movement,Freelance Consultant,2023-01-28,387299.26,ACH,Horizon Shell Co,YES
+TXN-726410,CASE-0031,49,Trade-Based,Unemployed,2024-08-22,2967603.95,ACH,Zenith Trade Partners,NO
+TXN-835499,CASE-0082,89,Rapid Movement,Freelance Consultant,2023-01-28,739076.53,ACH,Phoenix Consultancy,YES
+TXN-818605,CASE-0074,77,Rapid Movement,Retail Shop Owner,2023-01-19,593632.88,Wire,Blue Ocean Finance,YES
+TXN-232915,CASE-0030,96,Rapid Movement,Money Service Operator,2023-01-06,491639.69,Wire,Al-Faisal Trading Co,YES
+TXN-400009,CASE-0047,73,Cash Intensive,Freelance Consultant,2023-09-17,27944.18,Cash,Rapid Transfer Corp,NO
+TXN-882354,CASE-0033,67,Cash Intensive,Money Service Operator,2024-10-10,486187.06,Cash,Sunrise Exports Pvt Ltd,NO
+TXN-485709,CASE-0042,50,Trade-Based,Retail Shop Owner,2023-09-02,1892605.53,ACH,Rapid Transfer Corp,NO
+TXN-244170,CASE-0069,71,Rapid Movement,Cash Business Owner,2023-01-25,758891.08,Wire,Falcon Remittance,YES
+TXN-908320,CASE-0041,47,Shell Company,Unemployed,2023-10-30,1719971.1,Wire,Silver Creek Holdings,NO
+TXN-820775,CASE-0015,45,Trade-Based,Unemployed,2023-10-17,3663444.01,ACH,Sunrise Exports Pvt Ltd,NO
+TXN-258189,CASE-0040,99,Structuring,Unemployed,2024-08-08,918261.68,ATM,Silver Creek Holdings,YES
+TXN-672892,CASE-0081,90,Rapid Movement,Freelance Consultant,2023-01-18,667462.11,ACH,Horizon Shell Co,YES
+TXN-651231,CASE-0051,70,Rapid Movement,Cash Business Owner,2023-01-23,99311.08,ACH,Atlas Fund Management,YES
+TXN-104666,CASE-0078,99,Structuring,Freelance Consultant,2024-09-20,933499.43,ATM,Zenith Trade Partners,YES
+TXN-387892,CASE-0048,60,Cash Intensive,Retail Shop Owner,2023-12-28,311277.23,Cash,Falcon Remittance,NO
+TXN-445705,CASE-0040,99,Structuring,Unemployed,2023-12-13,973918,ATM,Sunrise Exports Pvt Ltd,YES
+TXN-192337,CASE-0018,45,Shell Company,Real Estate Agent,2024-02-15,1664418.86,Wire,Horizon Shell Co,NO
+TXN-269430,CASE-0004,67,Cash Intensive,Freelance Consultant,2023-12-08,387848.42,Cash,Apex Ventures,NO
+TXN-451470,CASE-0007,52,Cash Intensive,Money Service Operator,2023-03-28,149055.34,Cash,Meridian Trade,NO
+TXN-292811,CASE-0066,99,Rapid Movement,Import/Export Trader,2023-01-05,572231.31,ACH,Zenith Trade Partners,YES
+TXN-928766,CASE-0050,55,Shell Company,Freelance Consultant,2023-05-05,1973238.58,Wire,Nexus Holdings,NO
+TXN-495129,CASE-0056,65,Shell Company,Self-Employed,2023-08-01,1209596.19,ACH,Silver Creek Holdings,NO
+TXN-329642,CASE-0026,54,Cash Intensive,Self-Employed,2023-08-24,307461.85,Cash,Metro Cash Services,NO
+TXN-581894,CASE-0024,55,Cash Intensive,Import/Export Trader,2023-08-26,235963.46,Cash,Apex Ventures,NO
+TXN-534572,CASE-0008,93,Rapid Movement,Unemployed,2023-01-20,233631.91,ACH,Horizon Shell Co,YES
+TXN-491326,CASE-0054,73,Shell Company,Money Service Operator,2024-09-17,413859.84,Wire,Zenith Trade Partners,NO
+TXN-735863,CASE-0026,54,Cash Intensive,Self-Employed,2023-01-09,287305.22,Cash,Al-Faisal Trading Co,NO
+TXN-309044,CASE-0011,86,Rapid Movement,Cash Business Owner,2023-01-25,635924.79,Wire,Nexus Holdings,YES
+TXN-659951,CASE-0042,50,Trade-Based,Retail Shop Owner,2023-10-19,3885760.24,ACH,Nexus Holdings,NO
+TXN-402099,CASE-0015,45,Trade-Based,Unemployed,2024-08-31,2614606.16,Wire,Nexus Holdings,NO
+TXN-277487,CASE-0068,95,Rapid Movement,Money Service Operator,2023-01-15,774881.2,ACH,Metro Cash Services,YES
+TXN-971728,CASE-0042,50,Trade-Based,Retail Shop Owner,2024-09-03,2195239.42,Wire,Blue Ocean Finance,NO
+TXN-170394,CASE-0032,80,Rapid Movement,Unemployed,2023-01-12,284392.68,ACH,Atlas Fund Management,YES
+TXN-150068,CASE-0045,78,Cash Intensive,Real Estate Agent,2023-10-23,126443.71,Cash,Global Remit LLC,NO
+TXN-479404,CASE-0040,99,Structuring,Unemployed,2023-05-11,956876.95,ATM,Silver Creek Holdings,YES
+TXN-337178,CASE-0085,77,Rapid Movement,Unemployed,2023-01-03,50814.73,ACH,Orbit Capital,YES
+TXN-989227,CASE-0029,78,Structuring,Self-Employed,2024-01-03,927378.62,Cash,Global Remit LLC,YES
+TXN-679364,CASE-0004,67,Cash Intensive,Freelance Consultant,2023-02-06,418951.56,Cash,Orbit Capital,NO
+TXN-184491,CASE-0009,75,Structuring,Money Service Operator,2023-10-20,912334.1,ATM,Trident Finance,YES
+TXN-876039,CASE-0015,45,Trade-Based,Unemployed,2023-11-09,3058832.62,Wire,Meridian Trade,NO
+TXN-975271,CASE-0020,80,Trade-Based,Self-Employed,2023-10-26,2789924.07,ACH,Falcon Remittance,NO
+TXN-356773,CASE-0052,44,Trade-Based,Import/Export Trader,2024-07-12,1803522.46,ACH,Atlas Fund Management,NO
+TXN-485191,CASE-0047,73,Cash Intensive,Freelance Consultant,2023-07-11,253139.58,Cash,Atlas Fund Management,NO
+TXN-844638,CASE-0080,71,Trade-Based,Retail Shop Owner,2024-10-30,2727364.32,ACH,Falcon Remittance,NO
+TXN-971699,CASE-0077,93,Structuring,Cash Business Owner,2023-10-30,4947725.79,Cash,Global Remit LLC,YES
+TXN-937302,CASE-0030,96,Rapid Movement,Money Service Operator,2023-01-05,52126.66,Wire,Apex Ventures,YES
+TXN-706007,CASE-0083,56,Trade-Based,Retail Shop Owner,2023-11-27,4227546.28,ACH,Trident Finance,NO
+TXN-913875,CASE-0045,78,Cash Intensive,Real Estate Agent,2024-09-15,268608.04,Cash,Global Remit LLC,NO
+TXN-618934,CASE-0053,95,Rapid Movement,Import/Export Trader,2023-01-02,211358.32,ACH,Crest Imports,YES
+TXN-256445,CASE-0014,94,Structuring,Cash Business Owner,2023-03-08,4692589.2,Cash,Phoenix Consultancy,YES
+TXN-373453,CASE-0061,54,Cash Intensive,Freelance Consultant,2023-11-28,468554.44,Cash,Unknown Entity Ltd,NO
+TXN-566297,CASE-0029,78,Structuring,Self-Employed,2023-10-14,962143.4,Cash,Horizon Shell Co,YES
+TXN-458955,CASE-0056,65,Shell Company,Self-Employed,2023-11-18,1922033.89,ACH,Trident Finance,NO
+TXN-434400,CASE-0077,93,Structuring,Cash Business Owner,2024-05-09,4683316.71,ATM,Horizon Shell Co,YES
+TXN-578160,CASE-0069,71,Rapid Movement,Cash Business Owner,2023-01-01,223575.04,Wire,Silver Creek Holdings,YES
+TXN-246570,CASE-0055,99,Rapid Movement,Real Estate Agent,2023-01-05,652974.39,ACH,Silver Creek Holdings,YES
+TXN-725185,CASE-0034,54,Shell Company,Import/Export Trader,2023-06-11,866095.57,ACH,Orbit Capital,NO
+TXN-412999,CASE-0056,65,Shell Company,Self-Employed,2023-07-16,1923207.31,ACH,Trident Finance,NO
+TXN-163780,CASE-0031,49,Trade-Based,Unemployed,2024-11-05,2846530.47,ACH,Unknown Entity Ltd,NO
+TXN-611751,CASE-0083,56,Trade-Based,Retail Shop Owner,2023-10-12,3626166.27,ACH,Horizon Shell Co,NO
+TXN-335134,CASE-0050,55,Shell Company,Freelance Consultant,2024-12-18,1347860.04,ACH,Silver Creek Holdings,NO
+TXN-330080,CASE-0010,57,Shell Company,Import/Export Trader,2024-03-05,1168797.02,Wire,Atlas Fund Management,NO
+TXN-112861,CASE-0014,94,Structuring,Cash Business Owner,2024-12-15,955906.49,ATM,Global Remit LLC,YES
+TXN-181247,CASE-0009,75,Structuring,Money Service Operator,2024-06-17,4772915.32,ATM,Horizon Shell Co,YES
+TXN-245121,CASE-0043,81,Structuring,Import/Export Trader,2024-01-27,4974929.55,Cash,Meridian Trade,YES
+TXN-239890,CASE-0046,88,Rapid Movement,Import/Export Trader,2023-01-25,308601.87,Wire,Delta Clearing House,YES
+TXN-856157,CASE-0053,95,Rapid Movement,Import/Export Trader,2023-01-27,363601.06,Wire,Orbit Capital,YES
+TXN-498855,CASE-0015,45,Trade-Based,Unemployed,2024-07-25,3939995.5,Wire,Silver Creek Holdings,NO
+TXN-649414,CASE-0037,92,Rapid Movement,Cash Business Owner,2023-01-14,683363.27,Wire,Zenith Trade Partners,YES
+TXN-829066,CASE-0075,92,Rapid Movement,Import/Export Trader,2023-01-10,780669.03,Wire,Meridian Trade,YES
+TXN-629990,CASE-0080,71,Trade-Based,Retail Shop Owner,2023-05-20,1378078.21,ACH,Trident Finance,NO
+TXN-550797,CASE-0034,54,Shell Company,Import/Export Trader,2023-08-09,1558897.66,Wire,Metro Cash Services,NO
+TXN-497700,CASE-0064,97,Structuring,Real Estate Agent,2023-01-24,4675487.32,ATM,Trident Finance,YES
+TXN-262246,CASE-0032,80,Rapid Movement,Unemployed,2023-01-19,284336.67,Wire,Rapid Transfer Corp,YES
+TXN-651499,CASE-0022,82,Rapid Movement,Cash Business Owner,2023-01-28,298996.03,Wire,Global Remit LLC,YES
+TXN-970127,CASE-0029,78,Structuring,Self-Employed,2023-12-08,997669.69,Cash,Sunrise Exports Pvt Ltd,YES
+TXN-145471,CASE-0031,49,Trade-Based,Unemployed,2023-04-22,2534024.39,Wire,Meridian Trade,NO
+TXN-515182,CASE-0063,67,Structuring,Self-Employed,2024-04-12,946496.87,ATM,Unknown Entity Ltd,YES
+TXN-362529,CASE-0017,67,Structuring,Real Estate Agent,2024-09-04,985841.32,ATM,Meridian Trade,YES
+TXN-290305,CASE-0017,67,Structuring,Real Estate Agent,2023-02-11,935989.6,ATM,Apex Ventures,YES
+TXN-775981,CASE-0039,56,Cash Intensive,Freelance Consultant,2024-01-13,417531.35,Cash,Sunrise Exports Pvt Ltd,NO
+TXN-493663,CASE-0072,68,Structuring,Money Service Operator,2023-10-07,4691909.06,ATM,Trident Finance,YES
+TXN-827117,CASE-0079,80,Structuring,Import/Export Trader,2023-05-22,4651708.08,ATM,Trident Finance,YES
+TXN-595002,CASE-0063,67,Structuring,Self-Employed,2023-12-19,944398.46,Cash,Sunrise Exports Pvt Ltd,YES
+TXN-274446,CASE-0024,55,Cash Intensive,Import/Export Trader,2024-12-21,437563.82,Cash,Horizon Shell Co,NO
+TXN-226516,CASE-0013,62,Shell Company,Unemployed,2024-04-09,687649.57,ACH,Nexus Holdings,NO
+TXN-211834,CASE-0025,64,Trade-Based,Unemployed,2023-11-06,1396476.5,ACH,Atlas Fund Management,NO
+TXN-444207,CASE-0005,70,Structuring,Real Estate Agent,2023-08-22,882816.07,Cash,Zenith Trade Partners,YES
+TXN-672092,CASE-0004,67,Cash Intensive,Freelance Consultant,2023-01-10,64818.2,Cash,Phoenix Consultancy,NO
+TXN-700383,CASE-0056,65,Shell Company,Self-Employed,2024-01-25,465996.27,Wire,Al-Faisal Trading Co,NO
+TXN-299254,CASE-0066,99,Rapid Movement,Import/Export Trader,2023-01-10,206666.82,ACH,Rapid Transfer Corp,YES
+TXN-568449,CASE-0062,68,Structuring,Real Estate Agent,2024-11-11,970661.29,Cash,Silver Creek Holdings,YES
+TXN-274739,CASE-0048,60,Cash Intensive,Retail Shop Owner,2024-04-01,305284.6,Cash,Falcon Remittance,NO
+TXN-913934,CASE-0037,92,Rapid Movement,Cash Business Owner,2023-01-17,107284.53,Wire,Rapid Transfer Corp,YES
+TXN-690882,CASE-0071,69,Trade-Based,Freelance Consultant,2023-03-18,3579929.35,ACH,Trident Finance,NO
+TXN-167348,CASE-0009,75,Structuring,Money Service Operator,2023-05-22,907520.12,Cash,Rapid Transfer Corp,YES
+TXN-967161,CASE-0060,75,Cash Intensive,Real Estate Agent,2023-07-17,95992.51,Cash,Zenith Trade Partners,NO
+TXN-981334,CASE-0010,57,Shell Company,Import/Export Trader,2024-11-15,1422455.39,ACH,Blue Ocean Finance,NO
+TXN-297636,CASE-0064,97,Structuring,Real Estate Agent,2023-08-24,934814.41,Cash,Apex Ventures,YES
+TXN-904214,CASE-0052,44,Trade-Based,Import/Export Trader,2023-01-30,865502.85,ACH,Rapid Transfer Corp,NO
+TXN-796503,CASE-0006,97,Rapid Movement,Freelance Consultant,2023-01-12,744181.37,Wire,Sunrise Exports Pvt Ltd,YES
+TXN-878586,CASE-0080,71,Trade-Based,Retail Shop Owner,2023-10-23,1256940.4,ACH,Orbit Capital,NO
+TXN-114768,CASE-0060,75,Cash Intensive,Real Estate Agent,2024-04-14,327659.82,Cash,Blue Ocean Finance,NO
+TXN-876962,CASE-0033,67,Cash Intensive,Money Service Operator,2024-11-04,206384.33,Cash,Phoenix Consultancy,NO
+TXN-108060,CASE-0035,71,Cash Intensive,Cash Business Owner,2024-02-09,492378.37,Cash,Al-Faisal Trading Co,NO
+TXN-310548,CASE-0027,79,Structuring,Freelance Consultant,2023-04-03,4594397.88,ATM,Blue Ocean Finance,YES
+TXN-278240,CASE-0024,55,Cash Intensive,Import/Export Trader,2024-02-26,287304.75,Cash,Blue Ocean Finance,NO
+TXN-485397,CASE-0061,54,Cash Intensive,Freelance Consultant,2023-05-01,322968.55,Cash,Crest Imports,NO
+TXN-444056,CASE-0062,68,Structuring,Real Estate Agent,2024-07-14,948151.5,Cash,Blue Ocean Finance,YES
+TXN-931131,CASE-0016,63,Cash Intensive,Real Estate Agent,2023-05-26,44990.82,Cash,Blue Ocean Finance,NO
+TXN-726962,CASE-0065,82,Shell Company,Retail Shop Owner,2023-08-28,1668415.26,ACH,Orbit Capital,NO
+TXN-648913,CASE-0045,78,Cash Intensive,Real Estate Agent,2024-03-02,101783.82,Cash,Sunrise Exports Pvt Ltd,NO
+TXN-106933,CASE-0069,71,Rapid Movement,Cash Business Owner,2023-01-22,95337.59,ACH,Unknown Entity Ltd,YES
+TXN-287143,CASE-0063,67,Structuring,Self-Employed,2024-11-30,957770.56,ATM,Global Remit LLC,YES
+TXN-196781,CASE-0003,99,Structuring,Cash Business Owner,2024-10-11,4700718.39,ATM,Al-Faisal Trading Co,YES
+TXN-498468,CASE-0023,80,Cash Intensive,Import/Export Trader,2023-03-24,427364.99,Cash,Trident Finance,NO
+TXN-335729,CASE-0016,63,Cash Intensive,Real Estate Agent,2023-07-22,218318.09,Cash,Trident Finance,NO
+TXN-925013,CASE-0029,78,Structuring,Self-Employed,2024-04-10,958869.48,Cash,Al-Faisal Trading Co,YES
+TXN-927406,CASE-0076,69,Shell Company,Real Estate Agent,2023-11-07,635638.1,Wire,Falcon Remittance,NO
+TXN-419149,CASE-0028,65,Shell Company,Unemployed,2024-02-23,410016.69,Wire,Al-Faisal Trading Co,NO
+TXN-652029,CASE-0070,62,Trade-Based,Money Service Operator,2024-06-20,1170038.69,Wire,Meridian Trade,NO
+TXN-401601,CASE-0032,80,Rapid Movement,Unemployed,2023-01-28,755847.4,ACH,Al-Faisal Trading Co,YES
+TXN-452457,CASE-0010,57,Shell Company,Import/Export Trader,2023-10-07,984504.76,Wire,Zenith Trade Partners,NO
+TXN-262998,CASE-0003,99,Structuring,Cash Business Owner,2023-05-18,4468680.06,Cash,Trident Finance,YES
+TXN-413814,CASE-0072,68,Structuring,Money Service Operator,2024-08-24,969518.28,ATM,Sunrise Exports Pvt Ltd,YES
+TXN-492650,CASE-0063,67,Structuring,Self-Employed,2023-02-02,4643275.83,Cash,Falcon Remittance,YES
+TXN-559753,CASE-0075,92,Rapid Movement,Import/Export Trader,2023-01-31,70187.08,ACH,Rapid Transfer Corp,YES
+TXN-399279,CASE-0059,86,Structuring,Freelance Consultant,2024-05-03,969953.42,ATM,Delta Clearing House,YES
+TXN-911984,CASE-0029,78,Structuring,Self-Employed,2024-07-21,949779.59,Cash,Delta Clearing House,YES
+TXN-179184,CASE-0083,56,Trade-Based,Retail Shop Owner,2023-10-03,3325157.69,ACH,Horizon Shell Co,NO
+TXN-982277,CASE-0019,89,Structuring,Unemployed,2024-07-18,945717.92,Cash,Nexus Holdings,YES
+TXN-517035,CASE-0083,56,Trade-Based,Retail Shop Owner,2024-11-11,3637800.4,Wire,Trident Finance,NO
+TXN-903373,CASE-0041,47,Shell Company,Unemployed,2024-01-07,755958.93,Wire,Delta Clearing House,NO
+TXN-994905,CASE-0010,57,Shell Company,Import/Export Trader,2023-01-07,1896934.98,ACH,Zenith Trade Partners,NO
+TXN-327558,CASE-0066,99,Rapid Movement,Import/Export Trader,2023-01-07,502191.53,Wire,Trident Finance,YES
+TXN-355021,CASE-0070,62,Trade-Based,Money Service Operator,2024-01-18,4816840.07,ACH,Orbit Capital,NO
+TXN-903265,CASE-0064,97,Structuring,Real Estate Agent,2023-04-26,976327.9,ATM,Meridian Trade,YES
+TXN-857273,CASE-0070,62,Trade-Based,Money Service Operator,2024-07-18,2351023.29,Wire,Silver Creek Holdings,NO
+TXN-871411,CASE-0049,72,Structuring,Self-Employed,2024-10-27,4548518.93,Cash,Unknown Entity Ltd,YES
+TXN-851413,CASE-0020,80,Trade-Based,Self-Employed,2024-04-17,4761773.34,Wire,Atlas Fund Management,NO
+TXN-811027,CASE-0049,72,Structuring,Self-Employed,2024-11-26,993381.94,Cash,Meridian Trade,YES
+TXN-823821,CASE-0061,54,Cash Intensive,Freelance Consultant,2024-02-20,346176.07,Cash,Crest Imports,NO
+TXN-737846,CASE-0031,49,Trade-Based,Unemployed,2024-03-30,830708.22,Wire,Delta Clearing House,NO
+TXN-962287,CASE-0048,60,Cash Intensive,Retail Shop Owner,2024-03-10,48674.23,Cash,Meridian Trade,NO
+TXN-182857,CASE-0070,62,Trade-Based,Money Service Operator,2023-09-16,4168464.76,ACH,Zenith Trade Partners,NO
+TXN-596395,CASE-0047,73,Cash Intensive,Freelance Consultant,2024-06-11,205129.79,Cash,Trident Finance,NO
+TXN-610271,CASE-0035,71,Cash Intensive,Cash Business Owner,2023-10-18,342326.77,Cash,Orbit Capital,NO
+TXN-906306,CASE-0076,69,Shell Company,Real Estate Agent,2024-01-04,1462941.72,Wire,Global Remit LLC,NO
+TXN-564637,CASE-0034,54,Shell Company,Import/Export Trader,2024-09-24,289572.49,Wire,Apex Ventures,NO
+TXN-368402,CASE-0037,92,Rapid Movement,Cash Business Owner,2023-01-08,313324.8,Wire,Phoenix Consultancy,YES
+TXN-990844,CASE-0012,89,Structuring,Cash Business Owner,2024-03-14,4441029.26,ATM,Unknown Entity Ltd,YES
+TXN-896907,CASE-0018,45,Shell Company,Real Estate Agent,2023-07-12,1133190.91,ACH,Horizon Shell Co,NO
+TXN-836996,CASE-0013,62,Shell Company,Unemployed,2024-06-27,818763.31,ACH,Metro Cash Services,NO
+TXN-912233,CASE-0055,99,Rapid Movement,Real Estate Agent,2023-01-06,591050.08,ACH,Meridian Trade,YES
+TXN-185461,CASE-0040,99,Structuring,Unemployed,2023-04-07,4569067.45,Cash,Delta Clearing House,YES
+TXN-265759,CASE-0053,95,Rapid Movement,Import/Export Trader,2023-01-03,354569.4,ACH,Al-Faisal Trading Co,YES
+TXN-386436,CASE-0034,54,Shell Company,Import/Export Trader,2024-11-08,963226.59,ACH,Falcon Remittance,NO
+TXN-148823,CASE-0071,69,Trade-Based,Freelance Consultant,2024-12-09,4493994.38,ACH,Apex Ventures,NO
+TXN-515922,CASE-0011,86,Rapid Movement,Cash Business Owner,2023-01-19,69258.82,ACH,Zenith Trade Partners,YES
+TXN-290672,CASE-0012,89,Structuring,Cash Business Owner,2024-04-20,4600155.99,ATM,Delta Clearing House,YES
+TXN-571579,CASE-0039,56,Cash Intensive,Freelance Consultant,2024-04-18,294361.41,Cash,Al-Faisal Trading Co,NO
+TXN-295361,CASE-0059,86,Structuring,Freelance Consultant,2023-06-30,998663.44,ATM,Atlas Fund Management,YES
+TXN-745558,CASE-0028,65,Shell Company,Unemployed,2023-06-08,1793744.81,Wire,Atlas Fund Management,NO
+TXN-990429,CASE-0077,93,Structuring,Cash Business Owner,2023-03-10,4426586.42,Cash,Unknown Entity Ltd,YES
+TXN-159653,CASE-0039,56,Cash Intensive,Freelance Consultant,2023-11-14,236253.82,Cash,Al-Faisal Trading Co,NO
+TXN-380989,CASE-0073,46,Shell Company,Real Estate Agent,2023-10-30,1636499.31,Wire,Sunrise Exports Pvt Ltd,NO
+TXN-198042,CASE-0070,62,Trade-Based,Money Service Operator,2024-12-14,1516357.64,Wire,Al-Faisal Trading Co,NO
+TXN-475190,CASE-0004,67,Cash Intensive,Freelance Consultant,2024-01-09,450500.93,Cash,Al-Faisal Trading Co,NO
+TXN-829884,CASE-0044,46,Cash Intensive,Unemployed,2023-02-09,150570.9,Cash,Atlas Fund Management,NO
+TXN-421384,CASE-0048,60,Cash Intensive,Retail Shop Owner,2023-03-23,170680.75,Cash,Crest Imports,NO
+TXN-909676,CASE-0072,68,Structuring,Money Service Operator,2024-03-18,960883.69,ATM,Sunrise Exports Pvt Ltd,YES
+TXN-178463,CASE-0022,82,Rapid Movement,Cash Business Owner,2023-01-14,61510.7,Wire,Phoenix Consultancy,YES
+TXN-420015,CASE-0005,70,Structuring,Real Estate Agent,2024-04-26,903749.17,ATM,Metro Cash Services,YES
+TXN-410244,CASE-0025,64,Trade-Based,Unemployed,2023-08-31,2216139.34,ACH,Orbit Capital,NO
+TXN-270395,CASE-0005,70,Structuring,Real Estate Agent,2024-07-27,4979433.03,Cash,Nexus Holdings,YES
+TXN-470774,CASE-0032,80,Rapid Movement,Unemployed,2023-01-22,467278.05,ACH,Falcon Remittance,YES
+TXN-425845,CASE-0019,89,Structuring,Unemployed,2024-05-11,883435.46,Cash,Blue Ocean Finance,YES
+TXN-377501,CASE-0015,45,Trade-Based,Unemployed,2023-04-12,4764155.9,Wire,Rapid Transfer Corp,NO
+TXN-956156,CASE-0075,92,Rapid Movement,Import/Export Trader,2023-01-11,524676.85,Wire,Apex Ventures,YES
+TXN-317221,CASE-0072,68,Structuring,Money Service Operator,2023-02-03,990523.2,ATM,Unknown Entity Ltd,YES
+TXN-761820,CASE-0023,80,Cash Intensive,Import/Export Trader,2023-02-06,312555.14,Cash,Nexus Holdings,NO
+TXN-520274,CASE-0076,69,Shell Company,Real Estate Agent,2024-01-22,333137.24,ACH,Orbit Capital,NO
+TXN-207573,CASE-0043,81,Structuring,Import/Export Trader,2023-09-14,956300.31,ATM,Trident Finance,YES
+TXN-820892,CASE-0003,99,Structuring,Cash Business Owner,2023-10-06,4759873.75,ATM,Rapid Transfer Corp,YES
+TXN-425138,CASE-0047,73,Cash Intensive,Freelance Consultant,2023-07-24,444037.29,Cash,Delta Clearing House,NO
+TXN-514913,CASE-0074,77,Rapid Movement,Retail Shop Owner,2023-01-05,196661.17,Wire,Unknown Entity Ltd,YES
+TXN-614084,CASE-0031,49,Trade-Based,Unemployed,2024-05-05,4312843.44,ACH,Global Remit LLC,NO
+TXN-445888,CASE-0068,95,Rapid Movement,Money Service Operator,2023-01-10,245580.58,ACH,Rapid Transfer Corp,YES
+TXN-132359,CASE-0080,71,Trade-Based,Retail Shop Owner,2024-03-30,2699147.8,Wire,Orbit Capital,NO
+TXN-455505,CASE-0047,73,Cash Intensive,Freelance Consultant,2024-02-14,374220.78,Cash,Zenith Trade Partners,NO
+TXN-704238,CASE-0017,67,Structuring,Real Estate Agent,2023-01-27,907242.01,Cash,Apex Ventures,YES
+TXN-398384,CASE-0059,86,Structuring,Freelance Consultant,2023-10-24,881102.79,Cash,Delta Clearing House,YES
+TXN-148174,CASE-0084,67,Shell Company,Retail Shop Owner,2024-08-02,1734360.64,ACH,Al-Faisal Trading Co,NO
+TXN-260448,CASE-0051,70,Rapid Movement,Cash Business Owner,2023-01-27,374463.71,Wire,Silver Creek Holdings,YES
+TXN-558176,CASE-0047,73,Cash Intensive,Freelance Consultant,2023-12-06,143876.14,Cash,Metro Cash Services,NO
+TXN-577079,CASE-0062,68,Structuring,Real Estate Agent,2023-08-15,993925.9,ATM,Phoenix Consultancy,YES
+TXN-912609,CASE-0049,72,Structuring,Self-Employed,2023-07-10,4708058.44,Cash,Apex Ventures,YES
+TXN-369826,CASE-0068,95,Rapid Movement,Money Service Operator,2023-01-16,334879.83,Wire,Delta Clearing House,YES
+TXN-192410,CASE-0037,92,Rapid Movement,Cash Business Owner,2023-01-27,178904.89,ACH,Metro Cash Services,YES
+TXN-492292,CASE-0076,69,Shell Company,Real Estate Agent,2024-06-06,1544335.45,Wire,Horizon Shell Co,NO
+TXN-878325,CASE-0028,65,Shell Company,Unemployed,2024-02-02,1016558.76,ACH,Orbit Capital,NO
+TXN-220465,CASE-0032,80,Rapid Movement,Unemployed,2023-01-12,411642.05,Wire,Metro Cash Services,YES
+TXN-712554,CASE-0001,66,Structuring,Unemployed,2023-03-01,969009.09,Cash,Al-Faisal Trading Co,YES
+TXN-222629,CASE-0079,80,Structuring,Import/Export Trader,2023-03-28,917269.1,Cash,Crest Imports,YES
+TXN-237414,CASE-0042,50,Trade-Based,Retail Shop Owner,2024-06-23,669863.72,ACH,Meridian Trade,NO
+TXN-225710,CASE-0001,66,Structuring,Unemployed,2024-09-01,960350.29,Cash,Zenith Trade Partners,YES
+TXN-258290,CASE-0038,64,Trade-Based,Retail Shop Owner,2024-10-12,4939393.76,ACH,Delta Clearing House,NO
+TXN-447843,CASE-0072,68,Structuring,Money Service Operator,2023-06-16,947436.81,ATM,Trident Finance,YES
+TXN-515898,CASE-0067,76,Cash Intensive,Retail Shop Owner,2024-12-13,306156.75,Cash,Rapid Transfer Corp,NO
+TXN-588640,CASE-0067,76,Cash Intensive,Retail Shop Owner,2023-09-25,186225.86,Cash,Atlas Fund Management,NO
+TXN-450996,CASE-0074,77,Rapid Movement,Retail Shop Owner,2023-01-26,681210.04,ACH,Horizon Shell Co,YES
+TXN-207581,CASE-0048,60,Cash Intensive,Retail Shop Owner,2023-07-04,277282.45,Cash,Delta Clearing House,NO
+TXN-571832,CASE-0051,70,Rapid Movement,Cash Business Owner,2023-01-05,626873.41,Wire,Sunrise Exports Pvt Ltd,YES
+TXN-245939,CASE-0075,92,Rapid Movement,Import/Export Trader,2023-01-27,673461.36,Wire,Atlas Fund Management,YES
+TXN-445637,CASE-0061,54,Cash Intensive,Freelance Consultant,2024-01-28,125405.41,Cash,Apex Ventures,NO
+TXN-970720,CASE-0046,88,Rapid Movement,Import/Export Trader,2023-01-27,314224.28,ACH,Blue Ocean Finance,YES
+TXN-185965,CASE-0001,66,Structuring,Unemployed,2024-08-06,948891.37,Cash,Meridian Trade,YES
+TXN-641058,CASE-0077,93,Structuring,Cash Business Owner,2023-12-18,960579.58,Cash,Nexus Holdings,YES
+TXN-807160,CASE-0060,75,Cash Intensive,Real Estate Agent,2023-12-12,397476.16,Cash,Orbit Capital,NO
+TXN-793300,CASE-0016,63,Cash Intensive,Real Estate Agent,2023-09-28,396035.73,Cash,Orbit Capital,NO
+TXN-571145,CASE-0043,81,Structuring,Import/Export Trader,2024-06-12,913922.5,Cash,Apex Ventures,YES
+TXN-702980,CASE-0045,78,Cash Intensive,Real Estate Agent,2024-07-02,18053.32,Cash,Silver Creek Holdings,NO
+TXN-235215,CASE-0040,99,Structuring,Unemployed,2024-08-19,989092.83,ATM,Zenith Trade Partners,YES
+TXN-664742,CASE-0021,88,Rapid Movement,Self-Employed,2023-01-28,678106.94,ACH,Horizon Shell Co,YES
+TXN-423939,CASE-0026,54,Cash Intensive,Self-Employed,2023-04-10,452667.81,Cash,Al-Faisal Trading Co,NO
+TXN-387813,CASE-0026,54,Cash Intensive,Self-Employed,2023-10-30,20750.4,Cash,Zenith Trade Partners,NO
+TXN-966785,CASE-0016,63,Cash Intensive,Real Estate Agent,2024-10-25,83004.81,Cash,Apex Ventures,NO
+TXN-200992,CASE-0070,62,Trade-Based,Money Service Operator,2024-12-15,3533148.28,Wire,Global Remit LLC,NO
+TXN-725397,CASE-0079,80,Structuring,Import/Export Trader,2023-07-07,4812594.74,ATM,Falcon Remittance,YES
+TXN-250647,CASE-0053,95,Rapid Movement,Import/Export Trader,2023-01-07,361716.31,ACH,Meridian Trade,YES
+TXN-214532,CASE-0058,80,Structuring,Real Estate Agent,2023-07-26,4955149.24,ATM,Phoenix Consultancy,YES
+TXN-520304,CASE-0060,75,Cash Intensive,Real Estate Agent,2024-03-13,262487.52,Cash,Sunrise Exports Pvt Ltd,NO
+TXN-591081,CASE-0027,79,Structuring,Freelance Consultant,2024-05-08,4844202.81,ATM,Global Remit LLC,YES
+TXN-810526,CASE-0025,64,Trade-Based,Unemployed,2024-11-13,542288.44,ACH,Crest Imports,NO
+TXN-952686,CASE-0040,99,Structuring,Unemployed,2024-09-01,916840.24,ATM,Delta Clearing House,YES
+TXN-110048,CASE-0079,80,Structuring,Import/Export Trader,2023-07-11,4900981.2,Cash,Metro Cash Services,YES
+TXN-343118,CASE-0078,99,Structuring,Freelance Consultant,2024-07-19,919387.77,ATM,Horizon Shell Co,YES
+TXN-848022,CASE-0049,72,Structuring,Self-Employed,2023-05-06,981486.33,ATM,Blue Ocean Finance,YES
+TXN-875232,CASE-0055,99,Rapid Movement,Real Estate Agent,2023-01-06,748526.55,ACH,Meridian Trade,YES
+TXN-227794,CASE-0057,73,Trade-Based,Retail Shop Owner,2024-07-27,4701651.69,ACH,Crest Imports,NO
+TXN-490084,CASE-0049,72,Structuring,Self-Employed,2024-01-28,952006.28,ATM,Metro Cash Services,YES
+TXN-772642,CASE-0005,70,Structuring,Real Estate Agent,2023-10-13,995059.8,ATM,Metro Cash Services,YES
+TXN-244283,CASE-0044,46,Cash Intensive,Unemployed,2024-10-27,174292.27,Cash,Phoenix Consultancy,NO
+TXN-643878,CASE-0056,65,Shell Company,Self-Employed,2024-09-18,1856937.71,Wire,Phoenix Consultancy,NO
+TXN-184148,CASE-0063,67,Structuring,Self-Employed,2024-01-27,4917424.07,ATM,Zenith Trade Partners,YES
+TXN-228473,CASE-0053,95,Rapid Movement,Import/Export Trader,2023-01-11,436235.1,Wire,Horizon Shell Co,YES
+TXN-475876,CASE-0024,55,Cash Intensive,Import/Export Trader,2023-11-29,400110.3,Cash,Crest Imports,NO
+TXN-807617,CASE-0028,65,Shell Company,Unemployed,2024-01-26,1680351.14,ACH,Global Remit LLC,NO
+TXN-235461,CASE-0036,72,Structuring,Import/Export Trader,2023-05-03,939188.85,ATM,Blue Ocean Finance,YES
+TXN-439375,CASE-0082,89,Rapid Movement,Freelance Consultant,2023-01-20,313111.61,ACH,Blue Ocean Finance,YES
+TXN-332120,CASE-0028,65,Shell Company,Unemployed,2023-08-28,1048658.36,ACH,Meridian Trade,NO
+TXN-156837,CASE-0018,45,Shell Company,Real Estate Agent,2023-01-02,1383788.7,ACH,Falcon Remittance,NO
+TXN-516359,CASE-0036,72,Structuring,Import/Export Trader,2024-01-25,939531.22,ATM,Sunrise Exports Pvt Ltd,YES
+TXN-727094,CASE-0073,46,Shell Company,Real Estate Agent,2023-04-02,837045.72,Wire,Meridian Trade,NO
+TXN-423232,CASE-0004,67,Cash Intensive,Freelance Consultant,2023-06-01,220595.49,Cash,Al-Faisal Trading Co,NO
+TXN-224205,CASE-0015,45,Trade-Based,Unemployed,2024-07-30,4771065.39,Wire,Nexus Holdings,NO
+TXN-300337,CASE-0013,62,Shell Company,Unemployed,2024-12-19,1784193.22,Wire,Silver Creek Holdings,NO
+TXN-814827,CASE-0075,92,Rapid Movement,Import/Export Trader,2023-01-19,323761.65,Wire,Blue Ocean Finance,YES
+TXN-931621,CASE-0031,49,Trade-Based,Unemployed,2024-06-27,1827039.86,ACH,Global Remit LLC,NO
+TXN-944917,CASE-0066,99,Rapid Movement,Import/Export Trader,2023-01-10,405139.12,Wire,Phoenix Consultancy,YES
+TXN-140605,CASE-0005,70,Structuring,Real Estate Agent,2024-11-16,911749.88,Cash,Zenith Trade Partners,YES
+TXN-155040,CASE-0058,80,Structuring,Real Estate Agent,2024-09-22,908852.51,Cash,Nexus Holdings,YES
+TXN-626195,CASE-0056,65,Shell Company,Self-Employed,2024-03-04,472576.26,Wire,Falcon Remittance,NO
+TXN-941204,CASE-0005,70,Structuring,Real Estate Agent,2023-07-01,4414747.89,ATM,Falcon Remittance,YES
+TXN-171849,CASE-0001,66,Structuring,Unemployed,2024-05-03,886768.67,Cash,Blue Ocean Finance,YES
+TXN-457137,CASE-0072,68,Structuring,Money Service Operator,2023-12-21,891624.61,Cash,Sunrise Exports Pvt Ltd,YES
+TXN-832168,CASE-0019,89,Structuring,Unemployed,2023-07-28,4726785.69,ATM,Horizon Shell Co,YES
+TXN-144109,CASE-0057,73,Trade-Based,Retail Shop Owner,2023-12-20,4795739.89,Wire,Crest Imports,NO
+TXN-479742,CASE-0049,72,Structuring,Self-Employed,2024-03-24,895021.37,Cash,Metro Cash Services,YES
+TXN-898462,CASE-0083,56,Trade-Based,Retail Shop Owner,2023-05-16,1623547.59,ACH,Nexus Holdings,NO
+TXN-781403,CASE-0023,80,Cash Intensive,Import/Export Trader,2023-09-29,175895,Cash,Zenith Trade Partners,NO
+TXN-680358,CASE-0013,62,Shell Company,Unemployed,2023-09-07,751170.85,ACH,Atlas Fund Management,NO
+TXN-242175,CASE-0082,89,Rapid Movement,Freelance Consultant,2023-01-31,269476.02,ACH,Global Remit LLC,YES
+TXN-848255,CASE-0055,99,Rapid Movement,Real Estate Agent,2023-01-02,351040.31,Wire,Phoenix Consultancy,YES
+TXN-178686,CASE-0048,60,Cash Intensive,Retail Shop Owner,2024-10-16,490213.37,Cash,Al-Faisal Trading Co,NO
+TXN-649395,CASE-0068,95,Rapid Movement,Money Service Operator,2023-01-06,590235.15,ACH,Al-Faisal Trading Co,YES
+TXN-590755,CASE-0059,86,Structuring,Freelance Consultant,2024-04-10,4929109.68,Cash,Silver Creek Holdings,YES
+TXN-898625,CASE-0067,76,Cash Intensive,Retail Shop Owner,2023-04-11,403380.14,Cash,Atlas Fund Management,NO
+TXN-111991,CASE-0061,54,Cash Intensive,Freelance Consultant,2023-11-06,295405.77,Cash,Orbit Capital,NO
+TXN-649525,CASE-0040,99,Structuring,Unemployed,2024-10-23,884657.91,ATM,Horizon Shell Co,YES
+TXN-705693,CASE-0055,99,Rapid Movement,Real Estate Agent,2023-01-09,521945.36,ACH,Orbit Capital,YES
+TXN-805477,CASE-0007,52,Cash Intensive,Money Service Operator,2023-04-06,411027.5,Cash,Nexus Holdings,NO
+TXN-429657,CASE-0049,72,Structuring,Self-Employed,2024-03-30,948296.69,ATM,Zenith Trade Partners,YES
+TXN-412170,CASE-0081,90,Rapid Movement,Freelance Consultant,2023-01-24,792331.8,Wire,Nexus Holdings,YES
+TXN-424308,CASE-0006,97,Rapid Movement,Freelance Consultant,2023-01-24,517366.56,Wire,Silver Creek Holdings,YES
+TXN-698384,CASE-0045,78,Cash Intensive,Real Estate Agent,2023-01-02,311256.7,Cash,Nexus Holdings,NO
+TXN-656968,CASE-0024,55,Cash Intensive,Import/Export Trader,2024-01-19,221036.53,Cash,Nexus Holdings,NO
+TXN-778428,CASE-0076,69,Shell Company,Real Estate Agent,2023-09-12,1383682.96,ACH,Blue Ocean Finance,NO
+TXN-776149,CASE-0029,78,Structuring,Self-Employed,2023-08-30,4459116,ATM,Trident Finance,YES
+TXN-688153,CASE-0004,67,Cash Intensive,Freelance Consultant,2024-03-28,280323.41,Cash,Falcon Remittance,NO
+TXN-975467,CASE-0011,86,Rapid Movement,Cash Business Owner,2023-01-09,303125.41,ACH,Apex Ventures,YES
+TXN-148225,CASE-0024,55,Cash Intensive,Import/Export Trader,2024-12-11,156738.38,Cash,Unknown Entity Ltd,NO
+TXN-735324,CASE-0011,86,Rapid Movement,Cash Business Owner,2023-01-25,398775.49,ACH,Blue Ocean Finance,YES
+TXN-951201,CASE-0032,80,Rapid Movement,Unemployed,2023-01-14,673828.92,Wire,Metro Cash Services,YES
+TXN-114835,CASE-0014,94,Structuring,Cash Business Owner,2023-07-18,4535352.48,Cash,Crest Imports,YES
+TXN-667296,CASE-0023,80,Cash Intensive,Import/Export Trader,2023-11-21,317131.6,Cash,Atlas Fund Management,NO
+TXN-579318,CASE-0045,78,Cash Intensive,Real Estate Agent,2023-09-02,215714.52,Cash,Meridian Trade,NO
+TXN-550089,CASE-0045,78,Cash Intensive,Real Estate Agent,2023-09-05,362086.72,Cash,Crest Imports,NO
+TXN-928358,CASE-0030,96,Rapid Movement,Money Service Operator,2023-01-05,132444.76,Wire,Metro Cash Services,YES
+TXN-515712,CASE-0043,81,Structuring,Import/Export Trader,2024-04-06,4953630.8,ATM,Al-Faisal Trading Co,YES
+TXN-326895,CASE-0014,94,Structuring,Cash Business Owner,2023-07-17,4471135.07,Cash,Rapid Transfer Corp,YES
+TXN-579434,CASE-0002,79,Rapid Movement,Import/Export Trader,2023-01-05,229014.46,ACH,Crest Imports,YES
+TXN-763508,CASE-0081,90,Rapid Movement,Freelance Consultant,2023-01-28,207408.63,ACH,Meridian Trade,YES
+TXN-428122,CASE-0067,76,Cash Intensive,Retail Shop Owner,2023-11-24,458021.94,Cash,Metro Cash Services,NO
+TXN-781725,CASE-0011,86,Rapid Movement,Cash Business Owner,2023-01-31,402730.13,Wire,Nexus Holdings,YES
+TXN-962050,CASE-0014,94,Structuring,Cash Business Owner,2023-02-22,4959932.84,ATM,Global Remit LLC,YES
+TXN-597960,CASE-0055,99,Rapid Movement,Real Estate Agent,2023-01-23,495293.49,ACH,Crest Imports,YES
+TXN-428930,CASE-0056,65,Shell Company,Self-Employed,2024-12-18,397811.94,Wire,Horizon Shell Co,NO
+TXN-978292,CASE-0059,86,Structuring,Freelance Consultant,2024-07-01,988674.34,Cash,Falcon Remittance,YES
+TXN-213668,CASE-0005,70,Structuring,Real Estate Agent,2023-09-25,949090.18,ATM,Al-Faisal Trading Co,YES
+TXN-432061,CASE-0073,46,Shell Company,Real Estate Agent,2023-06-07,883999.99,Wire,Zenith Trade Partners,NO
+TXN-143195,CASE-0052,44,Trade-Based,Import/Export Trader,2023-06-07,1270402.8,ACH,Orbit Capital,NO
+TXN-629057,CASE-0040,99,Structuring,Unemployed,2023-03-05,4461583.62,ATM,Sunrise Exports Pvt Ltd,YES
+TXN-576786,CASE-0011,86,Rapid Movement,Cash Business Owner,2023-01-13,186296.77,ACH,Rapid Transfer Corp,YES
+TXN-910389,CASE-0038,64,Trade-Based,Retail Shop Owner,2023-06-27,3210795.43,Wire,Blue Ocean Finance,NO
+TXN-934908,CASE-0076,69,Shell Company,Real Estate Agent,2024-09-19,279734.05,ACH,Delta Clearing House,NO
+TXN-831380,CASE-0021,88,Rapid Movement,Self-Employed,2023-01-15,308842.96,ACH,Rapid Transfer Corp,YES
+TXN-735656,CASE-0005,70,Structuring,Real Estate Agent,2024-09-02,4605683.83,ATM,Falcon Remittance,YES
+TXN-626611,CASE-0070,62,Trade-Based,Money Service Operator,2023-10-09,2910821.46,ACH,Unknown Entity Ltd,NO
+TXN-774225,CASE-0038,64,Trade-Based,Retail Shop Owner,2024-10-05,2723526.61,ACH,Orbit Capital,NO
+TXN-784607,CASE-0058,80,Structuring,Real Estate Agent,2023-05-21,994777.73,Cash,Falcon Remittance,YES
+TXN-640659,CASE-0083,56,Trade-Based,Retail Shop Owner,2024-10-10,4075693.84,Wire,Zenith Trade Partners,NO
+TXN-233470,CASE-0006,97,Rapid Movement,Freelance Consultant,2023-01-23,356294.68,ACH,Trident Finance,YES
+TXN-505116,CASE-0054,73,Shell Company,Money Service Operator,2024-07-29,550379.54,ACH,Sunrise Exports Pvt Ltd,NO
+TXN-839142,CASE-0056,65,Shell Company,Self-Employed,2023-08-19,1894673.98,ACH,Crest Imports,NO
+TXN-718836,CASE-0079,80,Structuring,Import/Export Trader,2024-04-13,976834.85,ATM,Meridian Trade,YES
+TXN-579441,CASE-0053,95,Rapid Movement,Import/Export Trader,2023-01-31,423027.7,Wire,Silver Creek Holdings,YES
+TXN-388519,CASE-0065,82,Shell Company,Retail Shop Owner,2024-11-07,1138251.9,ACH,Crest Imports,NO
+TXN-767678,CASE-0071,69,Trade-Based,Freelance Consultant,2024-01-24,2197263.06,ACH,Al-Faisal Trading Co,NO
+TXN-242254,CASE-0028,65,Shell Company,Unemployed,2024-05-19,409016.87,Wire,Trident Finance,NO
+TXN-969032,CASE-0062,68,Structuring,Real Estate Agent,2024-06-24,4446471.12,Cash,Al-Faisal Trading Co,YES
+TXN-825391,CASE-0013,62,Shell Company,Unemployed,2023-01-18,367496.03,Wire,Zenith Trade Partners,NO
+TXN-833723,CASE-0017,67,Structuring,Real Estate Agent,2024-09-01,4661296.3,ATM,Crest Imports,YES
+TXN-675462,CASE-0044,46,Cash Intensive,Unemployed,2023-09-20,115670.82,Cash,Phoenix Consultancy,NO
+TXN-254511,CASE-0007,52,Cash Intensive,Money Service Operator,2023-11-14,120073.93,Cash,Rapid Transfer Corp,NO
+TXN-369452,CASE-0027,79,Structuring,Freelance Consultant,2023-05-16,4715857.16,ATM,Blue Ocean Finance,YES
+TXN-230272,CASE-0084,67,Shell Company,Retail Shop Owner,2023-04-12,1327123.14,ACH,Unknown Entity Ltd,NO
+TXN-250069,CASE-0024,55,Cash Intensive,Import/Export Trader,2024-11-30,128006.6,Cash,Orbit Capital,NO
+TXN-931450,CASE-0013,62,Shell Company,Unemployed,2023-09-04,1443096.81,ACH,Horizon Shell Co,NO
+TXN-646428,CASE-0077,93,Structuring,Cash Business Owner,2023-05-26,4585574.75,ATM,Rapid Transfer Corp,YES
+TXN-145934,CASE-0047,73,Cash Intensive,Freelance Consultant,2024-04-13,28122.06,Cash,Rapid Transfer Corp,NO
+TXN-166165,CASE-0046,88,Rapid Movement,Import/Export Trader,2023-01-21,398467.17,ACH,Phoenix Consultancy,YES
+TXN-900961,CASE-0054,73,Shell Company,Money Service Operator,2023-04-21,975669.98,ACH,Metro Cash Services,NO
+TXN-254739,CASE-0008,93,Rapid Movement,Unemployed,2023-01-16,481753.17,ACH,Nexus Holdings,YES
+TXN-891083,CASE-0034,54,Shell Company,Import/Export Trader,2023-03-28,1790015.93,Wire,Blue Ocean Finance,NO
+TXN-343500,CASE-0059,86,Structuring,Freelance Consultant,2024-10-23,988044.5,Cash,Orbit Capital,YES
+TXN-121869,CASE-0037,92,Rapid Movement,Cash Business Owner,2023-01-10,353317.16,ACH,Zenith Trade Partners,YES
+TXN-444061,CASE-0036,72,Structuring,Import/Export Trader,2023-11-05,971314.59,ATM,Crest Imports,YES
+TXN-979940,CASE-0044,46,Cash Intensive,Unemployed,2023-08-18,23811.9,Cash,Global Remit LLC,NO
+TXN-270387,CASE-0060,75,Cash Intensive,Real Estate Agent,2023-07-17,406318.8,Cash,Delta Clearing House,NO
+TXN-130610,CASE-0078,99,Structuring,Freelance Consultant,2024-02-19,902180.04,ATM,Zenith Trade Partners,YES
+TXN-579027,CASE-0025,64,Trade-Based,Unemployed,2023-11-03,3375224.16,ACH,Apex Ventures,NO
+TXN-570392,CASE-0044,46,Cash Intensive,Unemployed,2023-05-23,381832.17,Cash,Atlas Fund Management,NO
+TXN-575682,CASE-0033,67,Cash Intensive,Money Service Operator,2024-06-27,115415.11,Cash,Falcon Remittance,NO
+TXN-101773,CASE-0006,97,Rapid Movement,Freelance Consultant,2023-01-09,338896.58,Wire,Falcon Remittance,YES
+TXN-470858,CASE-0004,67,Cash Intensive,Freelance Consultant,2023-08-04,344212.68,Cash,Global Remit LLC,NO
+TXN-999398,CASE-0018,45,Shell Company,Real Estate Agent,2023-12-23,935026.57,ACH,Global Remit LLC,NO
+TXN-883041,CASE-0023,80,Cash Intensive,Import/Export Trader,2024-12-01,461255.26,Cash,Nexus Holdings,NO
+TXN-465962,CASE-0002,79,Rapid Movement,Import/Export Trader,2023-01-17,104945.54,Wire,Phoenix Consultancy,YES
+TXN-745414,CASE-0006,97,Rapid Movement,Freelance Consultant,2023-01-22,365334.75,ACH,Blue Ocean Finance,YES
+TXN-844007,CASE-0049,72,Structuring,Self-Employed,2024-03-31,976451.07,ATM,Metro Cash Services,YES
+TXN-154302,CASE-0085,77,Rapid Movement,Unemployed,2023-01-12,320326.54,Wire,Blue Ocean Finance,YES
+TXN-790855,CASE-0007,52,Cash Intensive,Money Service Operator,2024-06-07,241861.23,Cash,Blue Ocean Finance,NO
+TXN-135207,CASE-0064,97,Structuring,Real Estate Agent,2023-01-17,904523.71,Cash,Meridian Trade,YES
+TXN-180913,CASE-0041,47,Shell Company,Unemployed,2024-05-12,545609.42,Wire,Phoenix Consultancy,NO
+TXN-892911,CASE-0064,97,Structuring,Real Estate Agent,2024-02-07,966615.12,Cash,Unknown Entity Ltd,YES
+TXN-293319,CASE-0014,94,Structuring,Cash Business Owner,2024-08-10,4679291.18,ATM,Delta Clearing House,YES
+TXN-465746,CASE-0057,73,Trade-Based,Retail Shop Owner,2024-12-07,3672447.17,ACH,Atlas Fund Management,NO
+TXN-787584,CASE-0047,73,Cash Intensive,Freelance Consultant,2024-01-01,432447.88,Cash,Al-Faisal Trading Co,NO
+TXN-533914,CASE-0032,80,Rapid Movement,Unemployed,2023-01-14,689594.55,Wire,Nexus Holdings,YES
+TXN-703727,CASE-0036,72,Structuring,Import/Export Trader,2023-02-13,4411151.21,Cash,Delta Clearing House,YES
+TXN-638009,CASE-0048,60,Cash Intensive,Retail Shop Owner,2024-11-18,322381.14,Cash,Metro Cash Services,NO
+TXN-130359,CASE-0033,67,Cash Intensive,Money Service Operator,2024-11-04,416435.79,Cash,Apex Ventures,NO
+TXN-991597,CASE-0011,86,Rapid Movement,Cash Business Owner,2023-01-04,106997.36,Wire,Crest Imports,YES
+TXN-712955,CASE-0028,65,Shell Company,Unemployed,2024-07-03,422459.73,ACH,Apex Ventures,NO
+TXN-763829,CASE-0031,49,Trade-Based,Unemployed,2023-06-01,795570.05,ACH,Meridian Trade,NO
+TXN-690341,CASE-0002,79,Rapid Movement,Import/Export Trader,2023-01-01,746763.75,Wire,Meridian Trade,YES
+TXN-766549,CASE-0046,88,Rapid Movement,Import/Export Trader,2023-01-13,765052.76,Wire,Al-Faisal Trading Co,YES
+TXN-808446,CASE-0006,97,Rapid Movement,Freelance Consultant,2023-01-15,504996.18,ACH,Horizon Shell Co,YES
+TXN-741674,CASE-0051,70,Rapid Movement,Cash Business Owner,2023-01-15,320672.39,ACH,Phoenix Consultancy,YES
+TXN-108574,CASE-0054,73,Shell Company,Money Service Operator,2024-10-31,1410537.09,ACH,Trident Finance,NO
+TXN-493124,CASE-0044,46,Cash Intensive,Unemployed,2024-01-18,125531.26,Cash,Sunrise Exports Pvt Ltd,NO
+TXN-312146,CASE-0084,67,Shell Company,Retail Shop Owner,2023-06-11,994314.71,Wire,Falcon Remittance,NO
+TXN-720644,CASE-0010,57,Shell Company,Import/Export Trader,2024-04-23,1855174.92,Wire,Zenith Trade Partners,NO
+TXN-738577,CASE-0033,67,Cash Intensive,Money Service Operator,2024-11-22,324922.59,Cash,Unknown Entity Ltd,NO
+TXN-956375,CASE-0043,81,Structuring,Import/Export Trader,2024-06-09,978894.56,Cash,Nexus Holdings,YES
+TXN-910208,CASE-0021,88,Rapid Movement,Self-Employed,2023-01-28,192957.78,Wire,Apex Ventures,YES
+TXN-806396,CASE-0066,99,Rapid Movement,Import/Export Trader,2023-01-02,119348,Wire,Zenith Trade Partners,YES
+TXN-923975,CASE-0065,82,Shell Company,Retail Shop Owner,2024-05-22,284391.37,ACH,Zenith Trade Partners,NO
+TXN-220944,CASE-0005,70,Structuring,Real Estate Agent,2024-06-05,4804313.28,ATM,Unknown Entity Ltd,YES
+TXN-253023,CASE-0074,77,Rapid Movement,Retail Shop Owner,2023-01-10,177126.31,ACH,Atlas Fund Management,YES
+TXN-913423,CASE-0026,54,Cash Intensive,Self-Employed,2024-05-23,418091.06,Cash,Crest Imports,NO
+TXN-693830,CASE-0033,67,Cash Intensive,Money Service Operator,2023-12-26,12991.84,Cash,Phoenix Consultancy,NO
+TXN-612573,CASE-0062,68,Structuring,Real Estate Agent,2024-06-16,4469162.81,Cash,Orbit Capital,YES
+TXN-678805,CASE-0015,45,Trade-Based,Unemployed,2024-11-07,865343.59,Wire,Blue Ocean Finance,NO
+TXN-119927,CASE-0044,46,Cash Intensive,Unemployed,2024-09-22,12573.09,Cash,Sunrise Exports Pvt Ltd,NO
+TXN-765905,CASE-0052,44,Trade-Based,Import/Export Trader,2023-10-18,4306701.68,ACH,Rapid Transfer Corp,NO
+TXN-725726,CASE-0045,78,Cash Intensive,Real Estate Agent,2023-03-06,64320.37,Cash,Atlas Fund Management,NO
+TXN-184349,CASE-0017,67,Structuring,Real Estate Agent,2024-02-17,4697780.95,ATM,Horizon Shell Co,YES
+TXN-758765,CASE-0026,54,Cash Intensive,Self-Employed,2024-11-06,343619,Cash,Phoenix Consultancy,NO
+TXN-935457,CASE-0055,99,Rapid Movement,Real Estate Agent,2023-01-14,326268.36,Wire,Crest Imports,YES
+TXN-999636,CASE-0071,69,Trade-Based,Freelance Consultant,2024-03-20,3402082.59,ACH,Orbit Capital,NO
+TXN-321686,CASE-0071,69,Trade-Based,Freelance Consultant,2023-04-08,4526560.45,Wire,Nexus Holdings,NO
+TXN-103717,CASE-0004,67,Cash Intensive,Freelance Consultant,2024-03-09,416380.56,Cash,Al-Faisal Trading Co,NO
+TXN-324381,CASE-0058,80,Structuring,Real Estate Agent,2023-03-22,4949785.73,ATM,Atlas Fund Management,YES
+TXN-250219,CASE-0065,82,Shell Company,Retail Shop Owner,2024-11-19,1673088.48,Wire,Crest Imports,NO
+TXN-716113,CASE-0025,64,Trade-Based,Unemployed,2024-07-13,1210890.3,ACH,Metro Cash Services,NO
+TXN-659392,CASE-0052,44,Trade-Based,Import/Export Trader,2024-07-18,1735029.65,ACH,Meridian Trade,NO
+TXN-206694,CASE-0078,99,Structuring,Freelance Consultant,2023-08-08,913123.03,Cash,Orbit Capital,YES
+TXN-127537,CASE-0073,46,Shell Company,Real Estate Agent,2023-07-11,975763.13,ACH,Global Remit LLC,NO
+TXN-290802,CASE-0051,70,Rapid Movement,Cash Business Owner,2023-01-05,560081.74,ACH,Orbit Capital,YES
+TXN-862400,CASE-0048,60,Cash Intensive,Retail Shop Owner,2024-06-15,140693.14,Cash,Sunrise Exports Pvt Ltd,NO
+TXN-626690,CASE-0022,82,Rapid Movement,Cash Business Owner,2023-01-16,339559.06,Wire,Phoenix Consultancy,YES
+TXN-284430,CASE-0008,93,Rapid Movement,Unemployed,2023-01-25,565716.81,Wire,Nexus Holdings,YES
+TXN-813449,CASE-0054,73,Shell Company,Money Service Operator,2024-05-31,1010637.89,ACH,Meridian Trade,NO
+TXN-749813,CASE-0024,55,Cash Intensive,Import/Export Trader,2023-06-29,48694.49,Cash,Zenith Trade Partners,NO
+TXN-839485,CASE-0022,82,Rapid Movement,Cash Business Owner,2023-01-02,337228.14,ACH,Atlas Fund Management,YES
+TXN-138551,CASE-0076,69,Shell Company,Real Estate Agent,2024-07-01,1111902.76,ACH,Trident Finance,NO
+TXN-571635,CASE-0066,99,Rapid Movement,Import/Export Trader,2023-01-07,341314.29,ACH,Sunrise Exports Pvt Ltd,YES
+TXN-377304,CASE-0028,65,Shell Company,Unemployed,2024-07-24,858395.09,ACH,Unknown Entity Ltd,NO
+TXN-449247,CASE-0037,92,Rapid Movement,Cash Business Owner,2023-01-24,346825.02,ACH,Nexus Holdings,YES
+TXN-219490,CASE-0079,80,Structuring,Import/Export Trader,2024-07-03,923529.37,Cash,Horizon Shell Co,YES
+TXN-765678,CASE-0083,56,Trade-Based,Retail Shop Owner,2023-12-02,3118799.95,Wire,Horizon Shell Co,NO
+TXN-165142,CASE-0061,54,Cash Intensive,Freelance Consultant,2023-09-25,330304.85,Cash,Nexus Holdings,NO
+TXN-846385,CASE-0050,55,Shell Company,Freelance Consultant,2024-07-17,1175908.45,ACH,Blue Ocean Finance,NO
+TXN-691364,CASE-0011,86,Rapid Movement,Cash Business Owner,2023-01-05,516001.74,Wire,Global Remit LLC,YES
+TXN-219754,CASE-0080,71,Trade-Based,Retail Shop Owner,2024-05-22,2973767.83,Wire,Orbit Capital,NO
+TXN-947458,CASE-0012,89,Structuring,Cash Business Owner,2023-06-06,4504801.49,ATM,Meridian Trade,YES
+TXN-165290,CASE-0009,75,Structuring,Money Service Operator,2024-02-29,4596874.43,ATM,Falcon Remittance,YES
+TXN-405605,CASE-0075,92,Rapid Movement,Import/Export Trader,2023-01-31,409257.31,Wire,Delta Clearing House,YES
+TXN-578634,CASE-0009,75,Structuring,Money Service Operator,2024-12-13,4429879.94,Cash,Global Remit LLC,YES
+TXN-794769,CASE-0018,45,Shell Company,Real Estate Agent,2023-06-14,793646.59,ACH,Crest Imports,NO
+TXN-881667,CASE-0072,68,Structuring,Money Service Operator,2024-01-29,974069.27,Cash,Silver Creek Holdings,YES
+TXN-177794,CASE-0039,56,Cash Intensive,Freelance Consultant,2024-08-28,37524.34,Cash,Silver Creek Holdings,NO
+TXN-387330,CASE-0084,67,Shell Company,Retail Shop Owner,2024-12-06,1836932.99,ACH,Blue Ocean Finance,NO
+TXN-757629,CASE-0052,44,Trade-Based,Import/Export Trader,2024-08-08,2374640.53,Wire,Atlas Fund Management,NO
+TXN-331230,CASE-0035,71,Cash Intensive,Cash Business Owner,2024-06-23,336894.95,Cash,Al-Faisal Trading Co,NO
+TXN-332785,CASE-0076,69,Shell Company,Real Estate Agent,2024-03-16,390700.19,Wire,Apex Ventures,NO
+TXN-682144,CASE-0013,62,Shell Company,Unemployed,2023-03-29,634440.89,ACH,Atlas Fund Management,NO
+TXN-638179,CASE-0062,68,Structuring,Real Estate Agent,2023-04-04,4881171.79,ATM,Phoenix Consultancy,YES
+TXN-502810,CASE-0053,95,Rapid Movement,Import/Export Trader,2023-01-04,387197.01,Wire,Crest Imports,YES
+TXN-592841,CASE-0018,45,Shell Company,Real Estate Agent,2024-03-22,1342612.5,ACH,Sunrise Exports Pvt Ltd,NO
+TXN-600646,CASE-0061,54,Cash Intensive,Freelance Consultant,2023-04-08,100542.79,Cash,Phoenix Consultancy,NO
+TXN-638169,CASE-0030,96,Rapid Movement,Money Service Operator,2023-01-16,444564.14,Wire,Metro Cash Services,YES
+TXN-935012,CASE-0038,64,Trade-Based,Retail Shop Owner,2024-03-26,807288.16,ACH,Crest Imports,NO
+TXN-973074,CASE-0014,94,Structuring,Cash Business Owner,2024-05-10,4831128.08,ATM,Global Remit LLC,YES
+TXN-308727,CASE-0054,73,Shell Company,Money Service Operator,2023-12-14,1204097.31,ACH,Phoenix Consultancy,NO
+TXN-708851,CASE-0052,44,Trade-Based,Import/Export Trader,2023-04-06,2761579.15,Wire,Orbit Capital,NO
+TXN-802258,CASE-0002,79,Rapid Movement,Import/Export Trader,2023-01-30,487754.22,ACH,Rapid Transfer Corp,YES
+TXN-144412,CASE-0048,60,Cash Intensive,Retail Shop Owner,2024-12-07,227515.11,Cash,Horizon Shell Co,NO
+TXN-926823,CASE-0046,88,Rapid Movement,Import/Export Trader,2023-01-24,785779.57,ACH,Metro Cash Services,YES
+TXN-550770,CASE-0006,97,Rapid Movement,Freelance Consultant,2023-01-10,275712.41,Wire,Rapid Transfer Corp,YES
+TXN-886931,CASE-0012,89,Structuring,Cash Business Owner,2023-09-09,913192.46,ATM,Nexus Holdings,YES
+TXN-607699,CASE-0056,65,Shell Company,Self-Employed,2024-07-13,837716.58,ACH,Meridian Trade,NO
+TXN-697983,CASE-0054,73,Shell Company,Money Service Operator,2024-02-17,858687.23,ACH,Al-Faisal Trading Co,NO
+TXN-658623,CASE-0012,89,Structuring,Cash Business Owner,2024-09-06,974751.04,Cash,Metro Cash Services,YES
+TXN-566339,CASE-0073,46,Shell Company,Real Estate Agent,2024-01-05,391791.65,Wire,Crest Imports,NO
+TXN-544278,CASE-0063,67,Structuring,Self-Employed,2023-09-18,968750.73,Cash,Al-Faisal Trading Co,YES
+TXN-877259,CASE-0067,76,Cash Intensive,Retail Shop Owner,2024-02-28,32400.57,Cash,Nexus Holdings,NO
+TXN-628373,CASE-0064,97,Structuring,Real Estate Agent,2023-08-28,969771.9,Cash,Phoenix Consultancy,YES
+TXN-986209,CASE-0033,67,Cash Intensive,Money Service Operator,2023-10-13,291309,Cash,Falcon Remittance,NO
+TXN-841666,CASE-0012,89,Structuring,Cash Business Owner,2024-03-06,4462795.63,ATM,Horizon Shell Co,YES
+TXN-810687,CASE-0026,54,Cash Intensive,Self-Employed,2024-10-13,103164.67,Cash,Apex Ventures,NO
+TXN-533911,CASE-0073,46,Shell Company,Real Estate Agent,2023-11-29,1754692.72,Wire,Crest Imports,NO
+TXN-427730,CASE-0032,80,Rapid Movement,Unemployed,2023-01-14,670564.42,ACH,Global Remit LLC,YES
+TXN-986827,CASE-0027,79,Structuring,Freelance Consultant,2023-03-19,969744.03,Cash,Zenith Trade Partners,YES
+TXN-763121,CASE-0083,56,Trade-Based,Retail Shop Owner,2024-11-23,2267153.38,Wire,Orbit Capital,NO
+TXN-498858,CASE-0009,75,Structuring,Money Service Operator,2023-07-31,4631738.7,Cash,Orbit Capital,YES
+TXN-423404,CASE-0067,76,Cash Intensive,Retail Shop Owner,2024-04-22,271488.56,Cash,Metro Cash Services,NO
+TXN-267475,CASE-0061,54,Cash Intensive,Freelance Consultant,2024-11-14,67930.18,Cash,Crest Imports,NO
+TXN-742412,CASE-0009,75,Structuring,Money Service Operator,2023-05-17,4797208.75,ATM,Horizon Shell Co,YES
+TXN-743378,CASE-0033,67,Cash Intensive,Money Service Operator,2024-07-28,487527.84,Cash,Meridian Trade,NO
+TXN-528625,CASE-0040,99,Structuring,Unemployed,2024-06-19,923303.86,ATM,Zenith Trade Partners,YES
+TXN-993085,CASE-0012,89,Structuring,Cash Business Owner,2024-07-05,4676599.89,ATM,Delta Clearing House,YES
+TXN-247111,CASE-0079,80,Structuring,Import/Export Trader,2024-10-22,946034.6,ATM,Crest Imports,YES
+TXN-897305,CASE-0023,80,Cash Intensive,Import/Export Trader,2023-04-03,222646.02,Cash,Global Remit LLC,NO
+TXN-986392,CASE-0071,69,Trade-Based,Freelance Consultant,2023-01-10,3662803.18,Wire,Atlas Fund Management,NO
+TXN-861319,CASE-0021,88,Rapid Movement,Self-Employed,2023-01-27,304906.43,ACH,Crest Imports,YES
+TXN-958130,CASE-0057,73,Trade-Based,Retail Shop Owner,2024-08-10,3544800.11,ACH,Zenith Trade Partners,NO
+TXN-974244,CASE-0002,79,Rapid Movement,Import/Export Trader,2023-01-10,709452.68,ACH,Horizon Shell Co,YES
+TXN-795613,CASE-0002,79,Rapid Movement,Import/Export Trader,2023-01-22,577654.94,Wire,Crest Imports,YES
+TXN-722651,CASE-0074,77,Rapid Movement,Retail Shop Owner,2023-01-24,320843.68,Wire,Atlas Fund Management,YES
