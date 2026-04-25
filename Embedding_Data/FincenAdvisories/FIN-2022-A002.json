@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "advisory_id": "FIN-2022-A002",
+    "source": "https://www.fincen.gov/system/files/advisory/2022-06-15/FinCEN%20Advisory%20Elder%20Financial%20Exploitation%20FINAL%20508.pdf",
+    "all_ids": [
+      "FIN-2022-A002"
+    ]
+  },
+  "intel": {
+    "typology_narrative": "The Financial Crimes Enforcement Network (FinCEN) is issuing this advisory to alert financial institutions to the rising trend of EFE targeting older adults2 and to highlight new EFE typologies and red flags since FinCEN issued the first EFE Advisory in 2011.3 FinCEN is also issuing this advisory in support of World Elder Abuse Awareness Day, which has been commemorated on June 15 every year since 2006 and provides an opportunity for communities around the world to promote a better understanding of abuse and neglect of older adults by raising awareness of the related cultural, social, economic, and demographic factors.4 SAR Filing Request: FinCEN requests that financial institutions reference the advisory by including \u201cEFE FIN-2022-A002\u201d in SAR field 2 (\u201cFiling Institution Note to FinCEN\u201d), and mark the check box for elder financial exploitation. According to the U.S. Department of Justice, elder abuse, which includes EFE among other forms of abuse, affects at least 10 percent of older adults each year in the United States,5 with millions of older adults losing more than $3 billion to financial fraud annually as of 2019.6 Despite the 1. EFE is one type of elder abuse, which includes physical, emotional, and financial abuse. Elder abuse and EFE definitions vary statutorily by state. For more information on the definition of EFE, see Consumer Financial Protection Bureau (CFPB) and FinCEN, \u201cMemorandum on Financial Institution and Law Enforcement Efforts to Combat Elder Financial Exploitation,\u201d (Memorandum on EFE) (August 30, 2017); see also, U.S. Department of Justice (DOJ) webpage, Elder Abuse and Elder Financial Exploitation Statutes. 2. For purposes of this advisory and consistent with other U.S. government agencies\u2019 use of the term, an older adult is considered an individual 60 years of age or older. See Federal Trade Commission (FTC) Report, \u201cProtecting Older Consumers, 2020-2021,\u201d (Older Consumers Report) (October 18, 2021), at p. 1. 3. See FinCEN, \u201cAdvisory to F",
+    "red_flags": [],
+    "indicator_count": 0
+  }
+}

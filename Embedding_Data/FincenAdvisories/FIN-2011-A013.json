@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "advisory_id": "FIN-2011-A013",
+    "source": "https://www.fincen.gov/system/files/advisory/2020-11-06/FATF%20October%202020%20Advisory%20FINAL%20508.pdf",
+    "all_ids": [
+      "FIN-2011-A013",
+      "FIN-2013-A002",
+      "FIN-2020-A001",
+      "FIN-2016-G001",
+      "FIN-2020-A009",
+      "FIN-2011-A010"
+    ]
+  },
+  "intel": {
+    "typology_narrative": "",
+    "red_flags": [],
+    "indicator_count": 0
+  }
+}

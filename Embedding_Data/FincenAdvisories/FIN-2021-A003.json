@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "advisory_id": "FIN-2021-A003",
+    "source": "https://www.fincen.gov/system/files/advisory/2021-03-11/FATF%20February%202021%20Advisory%20FINAL%20508.pdf",
+    "all_ids": [
+      "FIN-2021-A003",
+      "FIN-2011-A013",
+      "FIN-2013-A002",
+      "FIN-2020-A001",
+      "FIN-2016-G001",
+      "FIN-2011-A010"
+    ]
+  },
+  "intel": {
+    "typology_narrative": "",
+    "red_flags": [],
+    "indicator_count": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "advisory_id": "FIN-2025-A002",
+    "source": "https://www.fincen.gov/system/files/FinCEN-Advisory-Illicit-Oil-Smuggling-508.pdf",
+    "all_ids": [
+      "FIN-2025-A002",
+      "FIN-2024-A001",
+      "FIN-2018-A006",
+      "FIN-2023-A",
+      "FIN-2024-A"
+    ]
+  },
+  "intel": {
+    "typology_narrative": "The U.S. Department of the Treasury\u2019s (Treasury) Financial Crimes Enforcement Network (FinCEN) is issuing this Advisory to assist U.S. financial institutions in identifying and reporting potential sanctions evasion and other suspicious activity related to the Islamic Republic of Iran (Iran). On February 4, 2025, President Trump issued National Security Presidential Memorandum (NSPM- 2) announcing a maximum pressure campaign against Iran with the goals of denying Iran nuclear weapons and intercontinental ballistic missiles (ICBMs); countering its development of other weapons capabilities; neutralizing Iran\u2019s network and campaign of regional aggression; and disrupting, degrading, and denying Iran, including the Islamic Revolutionary Guard Corps (IRGC),1 and its terrorist proxies, access to the resources that sustain their destabilizing activities.2 To support the implementation of NSPM-2, Treasury\u2019s Office of Foreign Assets Control (OFAC) has issued several rounds of designations targeting Iranian oil exports (including illicit use of oil smuggling vessels), which are a significant revenue stream for the regime and its terrorist proxies, and Iranian weapons proliferators.3 This Advisory supports the U.S. maximum pressure campaign against Iran and replaces FinCEN\u2019s 2018 Advisory on the Iranian Regime\u2019s Illicit Activities.4 As such, it provides updated red flags and information on current trends and typologies for Iranian sanctions evasion and other illicit activity, including oil smuggling, \u201cshadow banking\u201d networks, and weapons procurement. It is being issued concurrent with OFAC\u2019s June 6 sanctions action, the first such action targeting an Iranian \u201cshadow banking\u201d network since the issuance of NSPM-2.5 This Advisory is also consistent with FinCEN\u2019s National Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) Priorities, which include terrorist financing and proliferation financing, as well as Treasury\u2019s 2024 National Terrorist Financing Risk Ass",
+    "red_flags": [],
+    "indicator_count": 0
+  }
+}
